@@ -42,7 +42,7 @@ SJC Institute of Technology
 ## Portfolio Website
 
 You can view my live portfolio here:
-https://yourusername.github.io/portfolio
+https://nazmath.github.io/portfolio
 
 ## Contact
 
